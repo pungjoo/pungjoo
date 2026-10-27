@@ -2,6 +2,5 @@
 
 # pungjoo
 
-asdsd
 
 
